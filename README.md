@@ -1,6 +1,8 @@
 # SEEP_image_processing
 code to reproduce image processing and analysis employed by SEEP method
 
+For single-cell RNA-seq analyses from SEEP methods paper see [SEEP](https://github.com/davidbmorse/SEEP)
+
 ## Data Structure
 #### \Data
 ##### c1 : all c1 (raw imaging data in plate form)
